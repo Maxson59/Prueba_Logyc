@@ -48,4 +48,4 @@ La prueba contenía un enunciado con las siguientes entidades
 * Materia
 
 El siguiente diagrama desarrolla las relaciones entre las entidades 
-![Diagrama de entidades](Diagrama_ER.png)
+![Diagrama de entidades](DiagramaER.png)
